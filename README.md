@@ -212,7 +212,7 @@ _ It should print `Item not in list` to the screen
 ```js
 const express = require('express');
 const getProducts = require('./getProducts');
-const getProduct = require('./getProduct);
+const getProduct = require('./getProduct');
 
 const app = express();
 
